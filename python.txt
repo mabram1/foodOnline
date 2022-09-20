@@ -1,0 +1,9 @@
+python -m venv env
+source env/Scripts/activate
+// deactivate
+// to check packages: pip freeze
+// to install django: pip install django
+// create django project: django-admin startproject foodOnline_main .
+// run python server: python manage.py runserver
+
+https://www.toptal.com/developers/gitignore/
